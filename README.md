@@ -9,7 +9,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
 
- 1. [Dapp job portal for unskilled workers](https://github.com/Ak47-crypto/jobPortal)
+ 1. [Dapp job portal for unskilled workers](https://job-portal-beta-coral.vercel.app/)
  2. [Ask anonymous messages online](https://www.askonline.fun)
  3. [Dapp for identifying fake product](https://verifyit.vercel.app)
  4. [Digital Asset Storage with Blockchain Technology](https://vault-b.netlify.app)
