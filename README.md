@@ -15,7 +15,7 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
  4. [Digital Asset Storage with Blockchain Technology](https://vault-b.netlify.app)
  5. [Notes for all developers](https://i-notes-server-five.vercel.app)
  6. [AI chatbot](https://ai-bot-one-kohl.vercel.app)
-
+ 7. [CricScore](https://cricscore-zeta.vercel.app/)
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="30" height="30" /> **Languages and Tools:**  
 [![My Skills](https://skillicons.dev/icons?i=html,css,tailwind,js,react,vite,ts,next,expressjs,nodejs,mongodb,md,git,github,vscode,styledcomponents,postman,stackoverflow&perline=13)](#)
 
