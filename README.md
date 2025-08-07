@@ -29,5 +29,5 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 [![Ankur's current streak](https://github-readme-stats.vercel.app/api?username=anku-rr&theme=radical)](#)
 
 <p align="center">
-     <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+     <img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/footers/gray0_ctp_on_line.svg?sanitize=true"/>
 </p>
