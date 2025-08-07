@@ -22,11 +22,11 @@ A **Full Stack Developer**  and an advocate for building **responsive**, **acces
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="30" height="30" /> Github Stats 
 
- [![Ankur's github stats](https://bad-apple-github-readme.vercel.app/api?username=Ak47-crypto&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
+ [![Ankur's github stats](https://bad-apple-github-readme.vercel.app/api?username=anku-rr&show_icons=true&count_private=true&line_height=20&icon_color=00b3ff&theme=blue-green&title_color=00b3ff)](#)
  
- [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=Ak47-crypto&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+ [![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=anku-rr&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
-[![Ankur's current streak](https://streak-stats.demolab.com/?user=Ak47-crypto&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+[![Ankur's current streak](https://streak-stats.demolab.com/?user=anku-rr&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 <p align="center">
      <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
